@@ -1,4 +1,4 @@
-- Hello I am young programmer and malware developer.
+- Hello I am young programmer.
 - I can destroy computer by my own malware. I almost destroyed the WinXP when I am 11 or 12 years old😯!
 - I can write code in: JavaScript, BatchFile, Visual Basics, HTML, CSS, Python
  
