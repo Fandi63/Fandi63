@@ -1,6 +1,6 @@
 - Hello I am young programmer.
-- I can destroy computer by my own malware. I almost destroyed the WinXP when I am 11 or 12 years old😯!
-- I can write code in: JavaScript, BatchFile, Visual Basics, HTML, CSS, Python
+- I can destroy computer by my own malware.
+- I can write code in: JavaScript(littlebit), BatchFile, Visual Basics, HTML, CSS, Python and Littlebit in Java.
  
 <!---
 Fandi63/Fandi63 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
